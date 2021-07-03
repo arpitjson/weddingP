@@ -725,9 +725,9 @@ a {
 	a.arrow__btn {
 	  display: none;
 	}
-	.wrapper {
+	/* .wrapper {
 		display: none;
-	}
+	} */
 
 	.wrapper section .item {
 		max-width: 100%;
